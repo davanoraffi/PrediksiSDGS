@@ -1,1 +1,1 @@
-# PrediksiSDGS
+# Prediksi Label SDGS dalam klasifikasi judul jurnal
